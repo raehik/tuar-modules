@@ -1,0 +1,6 @@
+# vim: set ft=conf
+
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.backup
